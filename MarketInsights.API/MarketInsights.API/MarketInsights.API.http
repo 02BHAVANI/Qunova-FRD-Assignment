@@ -1,0 +1,6 @@
+@MarketInsights.API_HostAddress = http://localhost:5185
+
+GET {{MarketInsights.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
